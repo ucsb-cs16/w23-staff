@@ -26,14 +26,11 @@ mermaid:
 
 # Aux links for the upper right navigation
 aux_links:
-  "w23c (Conrad, MW)":
-    - "//ucsb-csw8.github.io/w23c/"
-  "w23k (Kharitonova, TR)":
-    - "//ucsb-csw8.github.io/w23k/"
-  "f22":
-    - "//ucsb-cs8.github.io/f22/"
-  "s22":
-    - "//ucsb-csw8.github.io/s22/"
+  "w23 (Conrad, MW)":
+    - "//ucsb-cs16.github.io/w23/"
+  "ucsb-cs16.github.io":
+    - "//ucsb-cs16.github.io/"
+
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -42,6 +39,6 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/ucsb-csw8/w23c-staff" # the github URL for your repo
+gh_edit_repository: "https://github.com/ucsb-16/w23-staff" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
