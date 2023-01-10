@@ -48,6 +48,7 @@ See these example sites for the example bios and the info that you can include:
 | <https:///ucsb-csw8.github.io/s22/staff> | <https://github.com/ucsb-csw8/s22/tree/main/_staffers> |
 | <https://ucsb-csw8.github.io/w23c/staff/> | <https://github.com/ucsb-csw8/w23c/tree/main/_staffers> |
 | <https://ucsb-csw8.github.io/w23k/staff/> | <https://github.com/ucsb-csw8/w23k/tree/main/_staffers> |
+| <https://ucsb-cs16.github.io/w23/staff/> | <https://github.com/ucsb-cs16/w23/tree/main/_staffers> |
 
 You can use these as an inspiration to write your bio and select a picture that you'd like to share with students.
 
@@ -102,16 +103,11 @@ These visual guides might also be helpful in exposing what's going on behind eac
 
 ## Step 2: Locate the repo for your course's website
 
-The repo for your course's website will be under the `ucsb-csw8` github organization, and probably has a name that follows the naming conventions shown here:
+The repo for your course's website will be under the `ucsb-cs16` github organization, and probably has a name that follows the naming conventions shown here:
 
 | Quarter                         | Repo Name  | Link                               |
 |---------------------------------|------------|------------------------------------|
-| Winter 2022                     | w22        | <https://github.com/ucsb-csw8/w22> |
-| Spring 2022                     | s22        | <https://github.com/ucsb-csw8/s22> |
-| Summer 2022 <br />(Kharitonova) | m22-ykk    | <https://ucsb-csw8.github.io/m22-ykk/> |
-| Summer 2022 <br />(Elsayed)     | m22-shereen| <https://ucsb-csw8.github.io/m22-shereen/> |
-| Winter 2023 <br />(Conrad)      | w22c       | <https://github.com/ucsb-csw8/w23c> |
-| Winter 2023 <br />(Kharitonova) | w22k       | <https://github.com/ucsb-csw8/w23k> |
+| Winter 2023 | w23     | <https://github.com/ucsb-cs16/w23> |
 
 ## Step 3: Create a fork
 
@@ -128,7 +124,7 @@ create a fork of the repo under your own github id (the `owner` will show as you
 
 ![fork-w23k](https://user-images.githubusercontent.com/1119017/211179628-035e335f-60b6-4af0-abfe-9252e74f67c2.gif)
 
-You have now created a fork of the original repo (e.g. `github.com/pconrad/w23k` or `github.com/cgaucho/w23c`).
+You have now created a fork of the original repo (e.g. `github.com/pconrad/w23`).
 
 What happens next is that you'll make changes **in your forked copy**, then do what's called a *Pull Request* back to the original course website repo.
 
@@ -213,7 +209,6 @@ To submit a pull request:
 1. Navigate to the web page for the original repo.
 2. Click the Pull Requests tab, then the green `New Pull Request` button at upper right.
 3. You want the *base repository* to be the one in the `ucsb-csw8` organization for *your course* and you want the *head repository* to be your fork.  
-   * In the example animation below, at first the base repo shows `w23c` instead of `w23k`.  That's because `w23k` was forked from `w23c`, so by default, the pull request is going to the top of the fork tree.  We have to manually select `w23k` if that's the repo we want.  
    * The arrow should show the direction in which the changes are flowing, from your fork to the main repo.  
    * Sometimes you may need to toggle the `compare across forks` link to get the proper options to show up.
 4. Click the green `Create Pull Request` button again.
@@ -229,7 +224,7 @@ To submit a pull request:
 	
 Now that you have a pull request, there will be a URL for that pull request, e.g.
 
-* <https://github.com/ucsb-csw8/w23k/pull/5>
+* <https://github.com/ucsb-cs16/w23/pull/2>
 	
 Through whatever means your instructor advised (email, slack, etc.) let them know that you've made your pull request, and 
 send them the url to the pull request.
