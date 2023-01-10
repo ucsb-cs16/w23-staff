@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Setup Staff Pages" 
-parent: References
+title: "Setup Staff Bios" 
+parent: "Staff Setup"
 nav_order: 3
 ---
 
