@@ -48,7 +48,7 @@ See these example sites for the example bios and the info that you can include:
 | <https:///ucsb-csw8.github.io/s22/staff> | <https://github.com/ucsb-csw8/s22/tree/main/_staffers> |
 | <https://ucsb-csw8.github.io/w23c/staff/> | <https://github.com/ucsb-csw8/w23c/tree/main/_staffers> |
 | <https://ucsb-csw8.github.io/w23k/staff/> | <https://github.com/ucsb-csw8/w23k/tree/main/_staffers> |
-| <https://ucsb-cs16.github.io/w23/staff/> | <https://github.com/ucsb-cs16/w23/tree/main/_staffers> |
+| <https://ucsb-cs16.github.io/w23/staff.html> | <https://github.com/ucsb-cs16/w23/tree/main/_staffers> |
 
 You can use these as an inspiration to write your bio and select a picture that you'd like to share with students.
 
