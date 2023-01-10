@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "CS W 8"
+title: "CS 16 W23-Staff"
 layout: default
 nav_order: 0
-description: "CMPSC W 8 at UC Santa Barbara"
+description: "CMPSC 16 W23 Staff Pages at UC Santa Barbara"
 permalink: /
 ---
 
